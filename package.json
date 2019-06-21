@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-dll-apollo",
-  "version": "1.70.2-initial-dll-dev",
+  "version": "1.70.3-initial-dll-prod",
   "mountpoint": "apollo",
   "description": "Base for modules in node",
   "repository": "github.com:vicjicaman/tracker-dll-apollo.git",
